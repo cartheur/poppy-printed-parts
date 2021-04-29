@@ -5,4 +5,4 @@ The collection of all the 3D parts necessary to get buildig a Poppy robot are a 
 
 There are PNG files that are a snapshot of each of the parts, however, the STL viewer in GitHub will demo them in a 3D view.
 
-Thanks to the [Poppy project (www.poppy-project.org)](https://www.poppy-project.org/) and its [authors](https://github.com/cartheur/poppy-humanoid/blob/master/doc/authors.md).
+Thanks to the [Poppy project](www.poppy-project.org) and its [authors](https://github.com/cartheur/poppy-humanoid/blob/master/doc/authors.md).
