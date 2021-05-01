@@ -5,4 +5,6 @@ The collection of all the 3D parts necessary to get buildig a Poppy robot are a 
 
 There are PNG files that are a snapshot of each of the parts, however, the STL viewer in GitHub will demo them in a 3D view.
 
+In the subfolder [printer](printer//Guider-IIs/) you will find prepared models for the FlashForge Guider IIs 3D printer. This was chosen due to its large print area, good quality as noted in the community, and ability to auto-generate support structures for the more difficult Poppy parts. Otherwise, these parts have been printed on a Lulzbot Mini2.
+
 Thanks to the [Poppy project](https://www.poppy-project.org/en/) and its [authors](https://github.com/cartheur/poppy-humanoid/blob/master/doc/authors.md).
